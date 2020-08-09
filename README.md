@@ -3,4 +3,10 @@ This is a repository of a Micromouse Maze-Solver project that aims to solve a 30
 
 The main goal of the project is to implement and analyze various algorithms for fast and reliable maze solving.
 
-Team Contributors: Vedant Ghodke, Anushka Bhave, Anirudh Kolwadkar, Ameya Panchpor
+Team Contributors: 
+
+* Vedant Ghodke
+* Anushka Bhave
+* Anirudh Kolwadkar
+* Ameya Panchpor
+
